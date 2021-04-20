@@ -1,0 +1,15 @@
+#### javac
+/target/
+
+#### maven
+/.mvn/
+
+#### STS
+/.settings
+/.classpath
+/.factorypath
+/.project
+
+#### Intellij
+/.idea/
+*.iml
